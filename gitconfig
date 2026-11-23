@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = elhafedi.adam.pro@gmail.com
+	name = Adam El Hafedi elhafedi.adam.pro@gmail.com
